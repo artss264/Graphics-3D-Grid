@@ -5,6 +5,7 @@ Graphics, opengl, glfw, 3D, cuboid, cube, game.
 To run the game run the following 2 commands in the terminal--
 
 make
+
 ./gamepart1
 
 or just
